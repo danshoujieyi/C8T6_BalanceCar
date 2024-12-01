@@ -1,0 +1,2 @@
+# C8T6_BalanceCar
+这是一个使用CLion+cubemax开发stm32f103C8T6的两轮蓝牙平衡车项目，内含许多传感器的HAL库驱动代码
